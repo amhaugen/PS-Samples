@@ -2,7 +2,7 @@
     Convert an integer value to Roman Numerals.
     Convert Roman Numerals to an Integer.    
 
-    Bare nuts and no frills. Very little in the form of input validation. This was mearly an excercise to keep the creative juices moving. There are probably way more efficient
+    Bare-nuts and no frills. Very little in the form of input validation. This was mearly an excercise to keep the creative juices moving. There are probably way more efficient
     and elegant ways to accomplish this. 
 
     Basic Rules:
